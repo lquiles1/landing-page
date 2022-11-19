@@ -1,16 +1,44 @@
+body{
+   background-color: #553555;
+   margin: auto;
+   padding: auto;
+}
 header{
     background-color: black;
-    padding: 5px;
-   
-    
+    padding: 20px;    
 }
 ul{
     color: white;
     position: relative;
-    right: -200px;
+    right: -950px;
+    margin: auto;
+    padding: auto;
 
 }
 li{
+    display: inline;
     padding: 20px;
-   display: inline;
+    font-size: 18px;
+    position: relative;
+    right: -600px;
 }
+h1{
+    font-size: 50px;
+    color:white;
+    position: relative;
+    right: -785px;
+}
+#comming-soon {
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    border: 15px solid #96C5B0;
+    background-color: #755B69;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    position: absolute;
+    left: 750px;
+
+  }
+  
