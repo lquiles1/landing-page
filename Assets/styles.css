@@ -35,6 +35,7 @@ li{
     position: relative;
     top: 0px;
     border-top: 15px solid #F5E3E0;
+    border-bottom: 5px  solid #F5E3E0;
 
 }
 #main p{
